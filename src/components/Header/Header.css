@@ -1,0 +1,15 @@
+.menu a{
+    text-decoration: none;
+    margin: 20px;
+    font-weight: 700;
+    color: aliceblue;
+}
+.menu{
+    background-color: rgb(5, 5, 43);
+    padding: 10px;
+}
+.header{
+    background-color: bisque;
+    margin: 10px;
+    padding: 5px;
+}

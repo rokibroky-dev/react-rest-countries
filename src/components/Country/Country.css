@@ -1,0 +1,13 @@
+.country{
+    margin: 20px;
+    background-color: rgb(131, 131, 247);
+    padding: 15px;
+    color: antiquewhite;
+}
+.region{
+    text-decoration: none;
+}
+.country img{
+    width: 250px;
+    height: 150px;
+}
